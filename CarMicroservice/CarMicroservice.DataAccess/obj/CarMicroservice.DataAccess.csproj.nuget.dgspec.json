@@ -1,0 +1,371 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess\\CarMicroservice.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic.Interface\\CarMicroservice.BusinessLogic.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic.Interface\\CarMicroservice.BusinessLogic.Interface.csproj",
+        "projectName": "CarMicroservice.BusinessLogic.Interface",
+        "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic.Interface\\CarMicroservice.BusinessLogic.Interface.csproj",
+        "packagesPath": "C:\\Users\\csala\\.nuget\\packages\\",
+        "outputPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\csala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj": {
+                "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic\\CarMicroservice.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic\\CarMicroservice.BusinessLogic.csproj",
+        "projectName": "CarMicroservice.BusinessLogic",
+        "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic\\CarMicroservice.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\csala\\.nuget\\packages\\",
+        "outputPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\csala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic.Interface\\CarMicroservice.BusinessLogic.Interface.csproj": {
+                "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic.Interface\\CarMicroservice.BusinessLogic.Interface.csproj"
+              },
+              "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess.Interface\\CarMicroservice.DataAccess.Interface.csproj": {
+                "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess.Interface\\CarMicroservice.DataAccess.Interface.csproj"
+              },
+              "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj": {
+                "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess.Interface\\CarMicroservice.DataAccess.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess.Interface\\CarMicroservice.DataAccess.Interface.csproj",
+        "projectName": "CarMicroservice.DataAccess.Interface",
+        "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess.Interface\\CarMicroservice.DataAccess.Interface.csproj",
+        "packagesPath": "C:\\Users\\csala\\.nuget\\packages\\",
+        "outputPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\csala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj": {
+                "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess\\CarMicroservice.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess\\CarMicroservice.DataAccess.csproj",
+        "projectName": "CarMicroservice.DataAccess",
+        "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess\\CarMicroservice.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\csala\\.nuget\\packages\\",
+        "outputPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\csala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic\\CarMicroservice.BusinessLogic.csproj": {
+                "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic\\CarMicroservice.BusinessLogic.csproj"
+              },
+              "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess.Interface\\CarMicroservice.DataAccess.Interface.csproj": {
+                "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.DataAccess.Interface\\CarMicroservice.DataAccess.Interface.csproj"
+              },
+              "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj": {
+                "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj",
+        "projectName": "CarMicroservice.Model",
+        "projectPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\CarMicroservice.Model.csproj",
+        "packagesPath": "C:\\Users\\csala\\.nuget\\packages\\",
+        "outputPath": "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\csala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

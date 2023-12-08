@@ -1,0 +1,15 @@
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.deps.json
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.dll
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.pdb
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\CarMicroservice.Model.dll
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\CarMicroservice.Model.pdb
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.csproj.AssemblyReference.cache
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.AssemblyInfoInputs.cache
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.AssemblyInfo.cs
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.csproj.CoreCompileInputs.cache
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.csproj.CopyComplete
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.dll
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\refint\CarMicroservice.BusinessLogic.Interface.dll
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\CarMicroservice.BusinessLogic.Interface.pdb
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\ref\CarMicroservice.BusinessLogic.Interface.dll

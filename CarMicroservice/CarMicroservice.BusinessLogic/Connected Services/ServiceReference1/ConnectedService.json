@@ -1,0 +1,21 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:54214/CarService.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "references": [
+      "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic\\bin\\Debug\\net6.0\\CarMicroservice.BusinessLogic.Interface.dll",
+      "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic\\bin\\Debug\\net6.0\\CarMicroservice.DataAccess.Interface.dll",
+      "D:\\GPI\\WCFPrueba\\CarMicroservice\\CarMicroservice.BusinessLogic\\bin\\Debug\\net6.0\\CarMicroservice.Model.dll"
+    ],
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}

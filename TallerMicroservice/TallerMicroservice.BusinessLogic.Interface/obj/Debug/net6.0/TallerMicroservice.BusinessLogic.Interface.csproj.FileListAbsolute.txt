@@ -1,0 +1,15 @@
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.deps.json
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.pdb
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\TallerMicroservice.Model.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\bin\Debug\net6.0\TallerMicroservice.Model.pdb
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.csproj.AssemblyReference.cache
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.AssemblyInfoInputs.cache
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.AssemblyInfo.cs
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.csproj.CoreCompileInputs.cache
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.csproj.CopyComplete
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\refint\TallerMicroservice.BusinessLogic.Interface.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\TallerMicroservice.BusinessLogic.Interface.pdb
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.BusinessLogic.Interface\obj\Debug\net6.0\ref\TallerMicroservice.BusinessLogic.Interface.dll

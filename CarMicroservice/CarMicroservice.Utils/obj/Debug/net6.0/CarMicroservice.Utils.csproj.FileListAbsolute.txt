@@ -1,0 +1,12 @@
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\bin\Debug\net6.0\CarMicroservice.Utils.deps.json
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\bin\Debug\net6.0\CarMicroservice.Utils.dll
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\bin\Debug\net6.0\CarMicroservice.Utils.pdb
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\obj\Debug\net6.0\CarMicroservice.Utils.csproj.AssemblyReference.cache
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\obj\Debug\net6.0\CarMicroservice.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\obj\Debug\net6.0\CarMicroservice.Utils.AssemblyInfoInputs.cache
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\obj\Debug\net6.0\CarMicroservice.Utils.AssemblyInfo.cs
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\obj\Debug\net6.0\CarMicroservice.Utils.csproj.CoreCompileInputs.cache
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\obj\Debug\net6.0\CarMicroservice.Utils.dll
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\obj\Debug\net6.0\refint\CarMicroservice.Utils.dll
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\obj\Debug\net6.0\CarMicroservice.Utils.pdb
+D:\GPI\WCFPrueba\CarMicroservice\CarMicroservice.Utils\obj\Debug\net6.0\ref\CarMicroservice.Utils.dll

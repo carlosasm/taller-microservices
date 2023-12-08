@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarMicroservice.BusinessLogic.Interface/1.0.0": {
+        "dependencies": {
+          "CarMicroservice.Model": "1.0.0"
+        },
+        "runtime": {
+          "CarMicroservice.BusinessLogic.Interface.dll": {}
+        }
+      },
+      "CarMicroservice.Model/1.0.0": {
+        "runtime": {
+          "CarMicroservice.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarMicroservice.BusinessLogic.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarMicroservice.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

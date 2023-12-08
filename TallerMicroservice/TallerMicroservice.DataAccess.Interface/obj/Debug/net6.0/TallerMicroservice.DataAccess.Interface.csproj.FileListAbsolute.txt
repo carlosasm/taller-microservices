@@ -1,0 +1,15 @@
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\bin\Debug\net6.0\TallerMicroservice.DataAccess.Interface.deps.json
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\bin\Debug\net6.0\TallerMicroservice.DataAccess.Interface.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\bin\Debug\net6.0\TallerMicroservice.DataAccess.Interface.pdb
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\bin\Debug\net6.0\TallerMicroservice.Model.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\bin\Debug\net6.0\TallerMicroservice.Model.pdb
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\TallerMicroservice.DataAccess.Interface.csproj.AssemblyReference.cache
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\TallerMicroservice.DataAccess.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\TallerMicroservice.DataAccess.Interface.AssemblyInfoInputs.cache
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\TallerMicroservice.DataAccess.Interface.AssemblyInfo.cs
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\TallerMicroservice.DataAccess.Interface.csproj.CoreCompileInputs.cache
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\TallerMicroservice.DataAccess.Interface.csproj.CopyComplete
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\TallerMicroservice.DataAccess.Interface.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\refint\TallerMicroservice.DataAccess.Interface.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\TallerMicroservice.DataAccess.Interface.pdb
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.DataAccess.Interface\obj\Debug\net6.0\ref\TallerMicroservice.DataAccess.Interface.dll

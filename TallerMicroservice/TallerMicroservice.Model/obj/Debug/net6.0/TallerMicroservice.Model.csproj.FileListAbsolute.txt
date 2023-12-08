@@ -1,0 +1,12 @@
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\bin\Debug\net6.0\TallerMicroservice.Model.deps.json
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\bin\Debug\net6.0\TallerMicroservice.Model.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\bin\Debug\net6.0\TallerMicroservice.Model.pdb
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\obj\Debug\net6.0\TallerMicroservice.Model.csproj.AssemblyReference.cache
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\obj\Debug\net6.0\TallerMicroservice.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\obj\Debug\net6.0\TallerMicroservice.Model.AssemblyInfoInputs.cache
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\obj\Debug\net6.0\TallerMicroservice.Model.AssemblyInfo.cs
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\obj\Debug\net6.0\TallerMicroservice.Model.csproj.CoreCompileInputs.cache
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\obj\Debug\net6.0\TallerMicroservice.Model.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\obj\Debug\net6.0\refint\TallerMicroservice.Model.dll
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\obj\Debug\net6.0\TallerMicroservice.Model.pdb
+D:\GPI\WCFPrueba\TallerMicroservice\TallerMicroservice.Model\obj\Debug\net6.0\ref\TallerMicroservice.Model.dll
